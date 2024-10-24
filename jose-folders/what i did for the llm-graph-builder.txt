@@ -13,4 +13,4 @@ docker-compose up --build
 
 This docker build took around 20 minutes 
 
-The local website asks for authentication, like in the online version, and I didn't know what to change here
+The local website asks for authentication, like in the online version, but it doesn't work like in the online version. I didn't know what to change here
