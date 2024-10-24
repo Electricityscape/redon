@@ -1,0 +1,16 @@
+Information on neo4j graph builder
+
+tool online: https://llm-graph-builder.neo4jlabs.com/ need to create an account on neo4j aura
+
+github: https://github.com/neo4j-labs/llm-graph-builder/blob/main/README.md
+
+I followed the readme:
+
+Added an open ai api key to the .env file in backend folder 
+
+then ran the command:
+docker-compose up --build
+
+This docker build took around 20 minutes 
+
+The local website asks for authentication, like in the online version, and I didn't know what to change here
